@@ -10,7 +10,7 @@
             VerticalOptions="Center">
 
             <Image
-                Source="penguin_icon.png"
+                Source="cute_penguin.png"
                 SemanticProperties.Description="Cute dot net bot waving hi to you!"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
